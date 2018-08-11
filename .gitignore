@@ -3,10 +3,10 @@
 
 # ... except preferences
 !.gitignore
-!/User/Preferences.sublime-settings
+!User/Preferences.sublime-settings
 # and packages
-!/User/Package Control.sublime-settings
+!User/Package Control.sublime-settings
 # and sublime linter settings
-!/User/SublimeLinter.sublime-settings
+!User/SublimeLinter.sublime-settings
 # and WordHighlight settings
-!/WordHighlight
+!WordHighlight
