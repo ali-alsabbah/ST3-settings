@@ -1,12 +1,5 @@
-# Ignore everything...
 *
 
-# ... except preferences
 !.gitignore
-!User/Preferences.sublime-settings
-# and packages
-!User/Package Control.sublime-settings
-# and sublime linter settings
-!User/SublimeLinter.sublime-settings
-# and WordHighlight settings
-!WordHighlight
+!User/*
+!WordHighlight/*
