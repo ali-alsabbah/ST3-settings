@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Boxy Theme",
+		"Color Highlighter",
+		"Color Scheme - Vintage Terminal",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Flask Hello",
+		"GitGutter",
+		"HTML5",
+		"Jinja2",
+		"LiveReload",
+		"Package Control",
+		"PackageResourceViewer",
+		"requirementstxt",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-pylint",
+		"Theme - Sea Lion",
+		"Theme - Spacegray",
+		"WordHighlight"
+	]
+}
